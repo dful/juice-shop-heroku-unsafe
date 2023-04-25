@@ -1,6 +1,6 @@
-# DISCLAIMER
+# :warning::warning: DISCLAIMER :warning::warning:
 
-Be careful when implementing this forked version of Juice Shop in an exposed instance. Challenges enabled in this version were purposelly disabled for security reasons. More information [here](https://pwning.owasp-juice.shop/part1/challenges.html#potentially-dangerous-challenges)
+Be careful when implementing this forked version of Juice Shop in an exposed instance. Challenges enabled in this version were purposelly disabled for security reasons and can cause harm in an uncontrolled environment. More information [here](https://pwning.owasp-juice.shop/part1/challenges.html#potentially-dangerous-challenges)
 
 # ![Juice Shop Logo](https://raw.githubusercontent.com/juice-shop/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_100px.png) OWASP Juice Shop
 
